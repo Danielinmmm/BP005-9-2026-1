@@ -30,7 +30,7 @@ int main(){
 
   printf("El resultado de la suma es: %d\n", r);
   printf("El resultado de la resta es: %d\n", res(a,b));
-  printf("El resultado de la multiplicación es: %d\n", mult(a,b));
+  printf("El resultado de la multiplicacion es: %d\n", mult(a,b));
 
 imprimir ();
 }
