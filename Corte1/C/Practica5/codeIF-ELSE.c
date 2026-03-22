@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(){
-  int tiempo;
+  int time;
 
-printf("Ingrese la hora en formato milita: ");
-scanf("%d", &tiempo);
+printf("Ingrese la hora en formato militar: ");
+scanf("%d", &time);
 
 if (tiempo < 18) {
 printf ("Buen dia.");
