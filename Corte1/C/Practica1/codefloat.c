@@ -2,10 +2,10 @@
 int main(){
   float num1, num2, suma;
 
-printf("Ingrese el primer número: ");
+printf("Ingrese el primer numero: ");
 scanf("%f", &num1);
 
-printf("Ingrese el segundo número: ");
+printf("Ingrese el segundo numero: ");
 scanf("%f", &num2);
 
 suma = num1 + num2;
