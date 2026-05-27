@@ -12,7 +12,7 @@ int main() {
         }
 
         for (simbolos = 1; simbolos <= 2 * fila - 1; simbolos++) {
-            cout << "*";
+            cout << "@";
         }
 
         cout << endl;
@@ -25,7 +25,7 @@ int main() {
         }
 
         for (simbolos = 1; simbolos <= 2 * fila - 1; simbolos++) {
-            cout << "*";
+            cout << "@";
         }
 
         cout << endl;
